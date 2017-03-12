@@ -3,9 +3,9 @@
 {'S. Dwarakanath/Bhanumathi':[('Purnima Manjunath/Manjunath Marasandra'),('Prashanth Chengi/Shruti')]}
 {'S. Raghunath/Usha':[('Sudha/Nagendra'),('Sujay Raghunath/Divya')]}
 {'Shakunthala/Vasanth Rao':[('Sudheendra Chinji/Prathibha'),('Vijendra Raj/Rajashree'),('Vallabh Rao/Sathyavathi')]}
-{'Sudheendra Chinji/Prathibha':[('Varsha'),('Akarsha')]}
+{'Sudheendra Chinji/Prathibha':[('Varsha/Ajay'),('Akarsha')]}
 {'Vijendra Raj/Rajashree':[('Sindhu V. Raj/Parthasarathi Krishnan')]}
-{'Sindhu V. Raj/Parthasarathi Krishnan':[('son?')]}
+{'Sindhu V. Raj/Parthasarathi Krishnan':[('Artha Krishnan')]}
 {'Vallabh Rao/Sathyavathi':[('Anjana Vallabh/Varun Shastry')]}
 {'Vathsala/Sreepadh Achar':[('Nagamani/Shantharam'),('Vasuki Ram/Jayashree')]}
 {'Vasuki Ram/Jayashree':[('Sandeep')]}
@@ -24,14 +24,21 @@
 {'C.L. Gopinath Rao/Tara Bai':[('Manjula/Prasanna Rao'),('Jayanth Chenji/Sheela')]}
 {'Jayanth Chenji/Sheela':[('Harshavardhan Chenji/Riddhi')]}
 {'Manjula/Prasanna Rao':[('Anupama')]}
-{'C.L. Ramachandra Rao/Indira Bai':[('Srinivas/Prema'),('Vittal Rao/wife?'),('Panduranga Rao/Padmavathi'),('Gururajan Chenji/Parimala'),('Partharao Chenji/Vijaya'),('Sreedhar Baburao Chenji/wife?'),('Rakhma/husband?'),('Geetha/husband?')]}
-{'Vittal Rao/wife?':[('Pramod Vittal Rao')]}
+{'C.L. Ramachandra Rao/Indira Bai':[('Srinivas/Prema'),('Vittal Rao/Vimala'),('Panduranga Rao/Padmavathi'),('Gururajan Chenji/Parimala'),('Partharao Chenji/Vijaya'),('Sreedhar Baburao Chenji/wife?'),('Rakhma/husband?'),('Geetha/husband?')]}
+{'Panduranga Rao/Padmavathi':[('Raghavendra?'),('?')]}
+{'Gururajan Chenji/Parimala':[('Suhas'),('GC-2?')]}
+{'Vittal Rao/Vimala':[('Pramod Vittal Rao/Ratna Pramod'),('Prathima/Harish')]}
+{'Pramod Vittal Rao/Ratna Pramod':[('Prathik P. Rao')]}
+{'Prathima/Harish':[('Prakruthi Harish'),('Prathiksha Harish')]}
 {'C.L. Vasudeva Rao/wife?':[('Suresh/wife?'),('Ramesh/wife?'),('Murali/Manjula'),('Srinivas/wife?'),('Lakshmana Rao/wife?'),('Ramamani'),('Sukanya')]}
 {'Partharao Chenji/Vijaya':[('Chaitra Partharao/husband?'),('Ramya Rao/husband?')]}
 {'Ajay Shantharam/Srividya Nama':[('Arya')]}
-{'C.L. Ananth Rao/Sumithra Bai':[('Mohan Prasad/wife?'),('Krishna Prasad/Meera'),('Dhruva Prasad/wife?'),('Pramila/Nagaraj Rao')]}
-{'Dhruva Prasad/wife?':[('Naveen'),('Nootan')]}
-{'Mohan Prasad/wife?':[('Rajashree/Vijendra Raj'),('Roopashree'),('Arun Chenji')]}
+{'C.L. Ananth Rao/Sumithra Bai':[('Mohan Prasad/Malathi'),('Krishna Prasad/Meera'),('Dhruva Prasad/wife?'),('Pramila/Nagaraj Rao')]}
+{'Dhruva Prasad/Jayanthi':[('Naveen'),('Nootan')]}
+{'Krishna Prasad/Meera':[('Kiran'),('Praveen')]}
+{'Mohan Prasad/Malathi':[('Rajashree/Vijendra Raj'),('Roopa/Kishen A.L'),('Arun Chengi/Suman')]}
+{'Arun Chengi/Suman':[('Anirudh Prasad')]}
+{'Roopa/Kishen A.L':[('Rohit A.K/Deepika Ravi Kumar')]}
 {'Rajashree/Vijendra Raj':[('Sindhu V. Raj/Parthasarathi Krishnan')]}
-{'Pramila/Nagaraj Rao':[('Shashikala'),('Sharmila'),('Shakila')]}
+{'Pramila/Nagaraj Rao':[('Shashikala'),('Sharmila'),('Sheela')]}
 {'C.L. Narayana Rao/Chanchala Bai':[('Usha/Madhava Rao'),('Sandhya'),('Jagadish')]}
