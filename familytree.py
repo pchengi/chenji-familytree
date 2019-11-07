@@ -12,11 +12,9 @@ with open('chenji-tree') as inf:
 
 for pdict in familydicts:
 	#print type(pdict)
-	for parent,children in pdict.iteritems():
+	for parent,children in pdict.items():
 		#print "parent is %s, children are %s"%(parent, children)
 		for child in children:
 			edge=pydot.Edge(parent,child)
 			graph.add_edge(edge)
 graph.write_pdf('chenji-family.pdf')
-
-# and we are done!
